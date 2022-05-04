@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "414557664742",
+    "project_id": "image-cbeba",
+    "storage_bucket": "image-cbeba.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:414557664742:android:9b8f7a32be2afec5635227",
+        "android_client_info": {
+          "package_name": "com.example.sent_image_flutter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "414557664742-nrdln0mi3kmp2b9n3l4ek197oeor67mn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA6D0Wz3nqojajwQefFj-p7KvMjts_ntvA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "414557664742-nrdln0mi3kmp2b9n3l4ek197oeor67mn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
